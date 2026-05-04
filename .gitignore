@@ -1,0 +1,6 @@
+*.asv
+*.slxc
+*.mex*
+*.mat
+log/
+DerivedData/
